@@ -32,7 +32,7 @@ export default function ShopItem({ item, pickaxeContract }: Props) {
         Price:{" "}
         <b style={{ color:"orange", letterSpacing:"2px" }}>
           {claimCondition && ethers.utils.formatUnits(claimCondition?.price)}{" "}
-          Coin
+          WSPP
         </b>
       </p>
 
