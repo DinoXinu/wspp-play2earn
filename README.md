@@ -1,0 +1,1 @@
+# wspp-play2earn
